@@ -89,7 +89,7 @@ There are only three types of commands in this language.
 - Variable definition
 ```
 .S
-```
+```y
 
 ### Operators
 
